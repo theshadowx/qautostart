@@ -30,7 +30,7 @@
 #include <QString>
 #include <QFile>
 #include <QDir>
-
+#include <QProcess>
 
 Autostart::Autostart() {
 
